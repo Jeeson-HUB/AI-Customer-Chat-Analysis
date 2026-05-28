@@ -10,7 +10,6 @@ import re
 
 from transformers import pipeline
 from collections import Counter
-from wordcloud import WordCloud
 
 # ==========================================
 # PAGE CONFIG
