@@ -1,0 +1,201 @@
+chat_id,customer,message,date,time
+1,Tyler,My order has not arrived yet and it has been 10 days! This is unacceptable.,2024-01-01,00:00
+2,Iris,My issue was resolved immediately. Highly satisfied with the support.,2024-01-01,08:00
+3,Tyler,Is there a loyalty program I can join?,2024-01-01,16:00
+4,Diego,Just checking the status of my order placed last week.,2024-01-02,00:00
+5,Frank,My order has not arrived yet and it has been 10 days! This is unacceptable.,2024-01-02,08:00
+6,Aisha,Amazing service from start to finish. Will be a loyal customer.,2024-01-02,16:00
+7,Chris,The team was very helpful and polite. Great experience overall.,2024-01-03,00:00
+8,Priya,The discount was not applied even though I used the correct code.,2024-01-03,08:00
+9,Rachel,Your team went above and beyond to help me. Truly appreciated.,2024-01-03,16:00
+10,Pooja,How do I track my order? I cannot find the tracking number anywhere.,2024-01-04,00:00
+11,Omar,How do I apply for a business account?,2024-01-04,08:00
+12,Noah,Why is my refund taking so long? It has been 2 weeks already!,2024-01-04,16:00
+13,Grace,When will the out of stock item be available again?,2024-01-05,00:00
+14,Wendy,Your app is fantastic and the user experience is really smooth and intuitive.,2024-01-05,08:00
+15,Quinn,I placed an order by mistake. Can I cancel it?,2024-01-05,16:00
+16,Ethan,Can I schedule a specific delivery time slot?,2024-01-06,00:00
+17,Yara,My order shows delivered but I never received it.,2024-01-06,08:00
+18,Fatima,The product quality is outstanding. Worth every penny.,2024-01-06,16:00
+19,Xander,I have been on hold for 45 minutes. This is outrageous.,2024-01-07,00:00
+20,Eve,The item was damaged when it arrived. Very poor packaging.,2024-01-07,08:00
+21,Sean,My issue was resolved immediately. Highly satisfied with the support.,2024-01-07,16:00
+22,Olivia,Great packaging! The product arrived in perfect condition. Very happy.,2024-01-08,00:00
+23,Rachel,Can I use two discount codes on the same order?,2024-01-08,08:00
+24,Xander,Nobody informed me about the delay. I had to follow up myself.,2024-01-08,16:00
+25,Noah,Smooth checkout process and fast delivery. Really impressed.,2024-01-09,00:00
+26,James,How do I apply for a business account?,2024-01-09,08:00
+27,Fatima,I keep getting error messages when trying to make a payment.,2024-01-09,16:00
+28,Paul,Great value for money. I am very satisfied with the purchase.,2024-01-10,00:00
+29,Rachel,The new features in the app are brilliant. Keep up the great work.,2024-01-10,08:00
+30,Riya,What payment methods do you accept?,2024-01-10,16:00
+31,Uma,I requested a cancellation but was refused despite ordering minutes ago.,2024-01-11,00:00
+32,David,I did not receive the confirmation email. Can you resend it?,2024-01-11,08:00
+33,Uma,Excellent customer service! You guys resolved my issue in minutes.,2024-01-11,16:00
+34,Noah,The app keeps crashing every time I try to checkout. Please fix this bug.,2024-01-12,00:00
+35,Chris,Do you offer gift wrapping for orders?,2024-01-12,08:00
+36,Liam,I am really impressed with how professional your team is.,2024-01-12,16:00
+37,Kevin,My order shows delivered but I never received it.,2024-01-13,00:00
+38,Iris,The product stopped working after one day. Very poor quality.,2024-01-13,08:00
+39,Chloe,The quality exceeded my expectations. Really happy with this.,2024-01-13,16:00
+40,Omar,Your team went above and beyond to help me. Truly appreciated.,2024-01-14,00:00
+41,Xander,Can I use two discount codes on the same order?,2024-01-14,08:00
+42,Nora,Absolutely love your service! Will definitely recommend to my friends.,2024-01-14,16:00
+43,David,My subscription was charged even after I cancelled it. Need refund.,2024-01-15,00:00
+44,Fatima,Can I change the delivery address for my order?,2024-01-15,08:00
+45,Omar,Quick response from support team. Problem solved in no time.,2024-01-15,16:00
+46,Yara,I have been waiting for 3 weeks and still no update on my order.,2024-01-16,00:00
+47,Arjun,The product looks nothing like the pictures on the website.,2024-01-16,08:00
+48,Alice,The quality exceeded my expectations. Really happy with this.,2024-01-16,16:00
+49,James,Could you please update me on the expected delivery date?,2024-01-17,00:00
+50,Rachel,I did not receive the confirmation email. Can you resend it?,2024-01-17,08:00
+51,Henry,When will the out of stock item be available again?,2024-01-17,16:00
+52,Ethan,I love your new product line! Just placed my third order this month.,2024-01-18,00:00
+53,Ananya,Great value for money. I am very satisfied with the purchase.,2024-01-18,08:00
+54,Pooja,Amazing service from start to finish. Will be a loyal customer.,2024-01-18,16:00
+55,Grace,Your service has improved so much. Keep up the excellent work.,2024-01-19,00:00
+56,Fatima,Is there a way to combine two orders for cheaper shipping?,2024-01-19,08:00
+57,Jake,Received the wrong item. I ordered a blue shirt but got a red one.,2024-01-19,16:00
+58,Chloe,The delivery was delayed again. This keeps happening with your service.,2024-01-20,00:00
+59,Arjun,What courier service do you use for deliveries?,2024-01-20,08:00
+60,Uma,I placed an order by mistake. Can I cancel it?,2024-01-20,16:00
+61,Xander,I was charged twice for the same order. I need a refund immediately.,2024-01-21,00:00
+62,Tina,Is there a student discount available?,2024-01-21,08:00
+63,Leila,My issue was resolved immediately. Highly satisfied with the support.,2024-01-21,16:00
+64,Ananya,Just checking the status of my order placed last week.,2024-01-22,00:00
+65,Pooja,The app keeps crashing every time I try to checkout. Please fix this bug.,2024-01-22,08:00
+66,Iris,Why is my refund taking so long? It has been 2 weeks already!,2024-01-22,16:00
+67,Kate,The discount was not applied even though I used the correct code.,2024-01-23,00:00
+68,Aisha,I got exactly what I ordered and it looks even better in person.,2024-01-23,08:00
+69,Chloe,Received the wrong item. I ordered a blue shirt but got a red one.,2024-01-23,16:00
+70,Mia,How do I apply for a business account?,2024-01-24,00:00
+71,Maya,Can I use two discount codes on the same order?,2024-01-24,08:00
+72,Arjun,The product looks nothing like the pictures on the website.,2024-01-24,16:00
+73,Olivia,The support agent was rude and unhelpful. Very disappointing experience.,2024-01-25,00:00
+74,Diego,Thank you so much! The delivery was super fast and the product is amazing.,2024-01-25,08:00
+75,Olivia,Extremely disappointed with the product quality. Totally unusable.,2024-01-25,16:00
+76,Fatima,Loved the unboxing experience. Product was carefully packed.,2024-01-26,00:00
+77,Carol,Great packaging! The product arrived in perfect condition. Very happy.,2024-01-26,08:00
+78,Nora,Just checking the status of my order placed last week.,2024-01-26,16:00
+79,Liam,Quick response from support team. Problem solved in no time.,2024-01-27,00:00
+80,Ananya,Absolutely love your service! Will definitely recommend to my friends.,2024-01-27,08:00
+81,Leila,Do you offer gift wrapping for orders?,2024-01-27,16:00
+82,Sofia,The product broke after just 2 uses. Complete waste of money.,2024-01-28,00:00
+83,Grace,How long does standard shipping usually take?,2024-01-28,08:00
+84,Wendy,Super happy with my purchase. Product exactly as described.,2024-01-28,16:00
+85,Ananya,The product looks nothing like the pictures on the website.,2024-01-29,00:00
+86,Kevin,I am really impressed with how professional your team is.,2024-01-29,08:00
+87,Ananya,The new features in the app are brilliant. Keep up the great work.,2024-01-29,16:00
+88,Grace,I have been on hold for 45 minutes. This is outrageous.,2024-01-30,00:00
+89,Chloe,The team was very helpful and polite. Great experience overall.,2024-01-30,08:00
+90,Leo,This is terrible service. My complaint has been ignored for days.,2024-01-30,16:00
+91,Eve,My issue was resolved immediately. Highly satisfied with the support.,2024-01-31,00:00
+92,Marcus,I have been on hold for 45 minutes. This is outrageous.,2024-01-31,08:00
+93,Chloe,I am really impressed with how professional your team is.,2024-01-31,16:00
+94,Pooja,Just checking the status of my order placed last week.,2024-02-01,00:00
+95,Priya,What is your return policy for electronic items?,2024-02-01,08:00
+96,Zane,Received the wrong item. I ordered a blue shirt but got a red one.,2024-02-01,16:00
+97,Yara,What is your return policy for electronic items?,2024-02-02,00:00
+98,Quinn,The new features in the app are brilliant. Keep up the great work.,2024-02-02,08:00
+99,Ethan,What is the warranty period for this product?,2024-02-02,16:00
+100,Ananya,Loved the unboxing experience. Product was carefully packed.,2024-02-03,00:00
+101,Maya,My order says processing. Is that normal after 2 days?,2024-02-03,08:00
+102,Mia,Can I change the delivery address for my order?,2024-02-03,16:00
+103,Diego,Excellent customer service! You guys resolved my issue in minutes.,2024-02-04,00:00
+104,Tyler,"The product quality is okay, nothing special.",2024-02-04,08:00
+105,Diego,Excellent customer service! You guys resolved my issue in minutes.,2024-02-04,16:00
+106,Arjun,My order shows delivered but I never received it.,2024-02-05,00:00
+107,Frank,Amazing service from start to finish. Will be a loyal customer.,2024-02-05,08:00
+108,Aisha,Just checking the status of my order placed last week.,2024-02-05,16:00
+109,Paul,I got exactly what I ordered and it looks even better in person.,2024-02-06,00:00
+110,Leila,Sent the wrong size twice in a row. Total incompetence.,2024-02-06,08:00
+111,Carol,Five stars! Everything was perfect from ordering to delivery.,2024-02-06,16:00
+112,Maya,This is terrible service. My complaint has been ignored for days.,2024-02-07,00:00
+113,Uma,My account got locked and nobody is helping me to resolve it.,2024-02-07,08:00
+114,Maya,How long does standard shipping usually take?,2024-02-07,16:00
+115,Quinn,I would like to know if the item is available in size medium.,2024-02-08,00:00
+116,Kevin,I requested a cancellation but was refused despite ordering minutes ago.,2024-02-08,08:00
+117,Pooja,Impressed by how quickly my complaint was handled. Thank you!,2024-02-08,16:00
+118,Ethan,How do I track my order? I cannot find the tracking number anywhere.,2024-02-09,00:00
+119,Grace,Extremely disappointed with the product quality. Totally unusable.,2024-02-09,08:00
+120,Nora,The team was very helpful and polite. Great experience overall.,2024-02-09,16:00
+121,Wendy,Your service has improved so much. Keep up the excellent work.,2024-02-10,00:00
+122,Paul,Can I change my order before it is shipped?,2024-02-10,08:00
+123,Luna,The delivery was delayed again. This keeps happening with your service.,2024-02-10,16:00
+124,Tina,How do I apply for a business account?,2024-02-11,00:00
+125,Kevin,The product broke after just 2 uses. Complete waste of money.,2024-02-11,08:00
+126,Marcus,I requested a cancellation but was refused despite ordering minutes ago.,2024-02-11,16:00
+127,Grace,Quick response from support team. Problem solved in no time.,2024-02-12,00:00
+128,Quinn,Can I change the delivery address for my order?,2024-02-12,08:00
+129,Tyler,Your app is fantastic and the user experience is really smooth and intuitive.,2024-02-12,16:00
+130,Sam,The product stopped working after one day. Very poor quality.,2024-02-13,00:00
+131,Victor,The item was damaged when it arrived. Very poor packaging.,2024-02-13,08:00
+132,Quinn,I am really impressed with how professional your team is.,2024-02-13,16:00
+133,David,The product stopped working after one day. Very poor quality.,2024-02-14,00:00
+134,Rachel,Super happy with my purchase. Product exactly as described.,2024-02-14,08:00
+135,Sean,Impressed by how quickly my complaint was handled. Thank you!,2024-02-14,16:00
+136,Kate,Best online shopping experience I have had. Will order again!,2024-02-15,00:00
+137,Chris,My order says processing. Is that normal after 2 days?,2024-02-15,08:00
+138,Henry,My order has not arrived yet and it has been 10 days! This is unacceptable.,2024-02-15,16:00
+139,Riya,Outstanding delivery speed. Ordered yesterday and it is here today!,2024-02-16,00:00
+140,Carol,My order says processing. Is that normal after 2 days?,2024-02-16,08:00
+141,Marcus,Do you offer gift wrapping for orders?,2024-02-16,16:00
+142,Carol,Absolutely love your service! Will definitely recommend to my friends.,2024-02-17,00:00
+143,Carol,Outstanding delivery speed. Ordered yesterday and it is here today!,2024-02-17,08:00
+144,James,How long does standard shipping usually take?,2024-02-17,16:00
+145,Wendy,Your app is fantastic and the user experience is really smooth and intuitive.,2024-02-18,00:00
+146,Priya,Can I change my order before it is shipped?,2024-02-18,08:00
+147,Jake,Can I schedule a specific delivery time slot?,2024-02-18,16:00
+148,Kate,I would like to know if the item is available in size medium.,2024-02-19,00:00
+149,Leo,What is the warranty period for this product?,2024-02-19,08:00
+150,Leo,How do I track my order? I cannot find the tracking number anywhere.,2024-02-19,16:00
+151,Priya,When will the out of stock item be available again?,2024-02-20,00:00
+152,Tyler,How do I delete my account if I no longer need it?,2024-02-20,08:00
+153,Kate,Can you confirm whether my payment was processed successfully?,2024-02-20,16:00
+154,Yara,Could you please update me on the expected delivery date?,2024-02-21,00:00
+155,Sofia,How do I delete my account if I no longer need it?,2024-02-21,08:00
+156,Ethan,The support chat was fast and the agent was extremely helpful.,2024-02-21,16:00
+157,Olivia,Nobody informed me about the delay. I had to follow up myself.,2024-02-22,00:00
+158,Mia,Quick response from support team. Problem solved in no time.,2024-02-22,08:00
+159,Eve,The product stopped working after one day. Very poor quality.,2024-02-22,16:00
+160,Wendy,Can you confirm whether my payment was processed successfully?,2024-02-23,00:00
+161,James,I have been waiting for 3 weeks and still no update on my order.,2024-02-23,08:00
+162,Victor,My order says processing. Is that normal after 2 days?,2024-02-23,16:00
+163,Quinn,Could you please update me on the expected delivery date?,2024-02-24,00:00
+164,Carol,Best online shopping experience I have had. Will order again!,2024-02-24,08:00
+165,Wendy,Super happy with my purchase. Product exactly as described.,2024-02-24,16:00
+166,Omar,When will the out of stock item be available again?,2024-02-25,00:00
+167,Henry,My account got locked and nobody is helping me to resolve it.,2024-02-25,08:00
+168,Mia,Extremely disappointed with the product quality. Totally unusable.,2024-02-25,16:00
+169,Omar,Loved the unboxing experience. Product was carefully packed.,2024-02-26,00:00
+170,Chloe,Your service has improved so much. Keep up the excellent work.,2024-02-26,08:00
+171,Tyler,Can I schedule a specific delivery time slot?,2024-02-26,16:00
+172,Omar,I need an invoice for my recent purchase for company records.,2024-02-27,00:00
+173,Victor,Quick response from support team. Problem solved in no time.,2024-02-27,08:00
+174,Henry,I requested a cancellation but was refused despite ordering minutes ago.,2024-02-27,16:00
+175,Nora,Is there a way to combine two orders for cheaper shipping?,2024-02-28,00:00
+176,Uma,Super happy with my purchase. Product exactly as described.,2024-02-28,08:00
+177,Marcus,I am so frustrated! This is the third time my order was messed up.,2024-02-28,16:00
+178,Maya,Super happy with my purchase. Product exactly as described.,2024-02-29,00:00
+179,Tyler,Is there a loyalty program I can join?,2024-02-29,08:00
+180,Leila,I placed an order by mistake. Can I cancel it?,2024-02-29,16:00
+181,Alice,The quality exceeded my expectations. Really happy with this.,2024-03-01,00:00
+182,Omar,The team was very helpful and polite. Great experience overall.,2024-03-01,08:00
+183,Kevin,I placed an order by mistake. Can I cancel it?,2024-03-01,16:00
+184,Luna,Customer support was friendly and resolved everything quickly.,2024-03-02,00:00
+185,Sofia,Can you tell me the difference between the two models?,2024-03-02,08:00
+186,Tyler,What is the warranty period for this product?,2024-03-02,16:00
+187,Sam,Great packaging! The product arrived in perfect condition. Very happy.,2024-03-03,00:00
+188,Ryan,The delivery person was rude and left my package outside in the rain.,2024-03-03,08:00
+189,Pooja,Nobody informed me about the delay. I had to follow up myself.,2024-03-03,16:00
+190,Olivia,The product quality is outstanding. Worth every penny.,2024-03-04,00:00
+191,Bob,Can I change the delivery address for my order?,2024-03-04,08:00
+192,Ryan,Received my order on time and everything was perfect. Thank you!,2024-03-04,16:00
+193,Ethan,Just checking the status of my order placed last week.,2024-03-05,00:00
+194,Leila,The delivery person was rude and left my package outside in the rain.,2024-03-05,08:00
+195,Yara,Loved the unboxing experience. Product was carefully packed.,2024-03-05,16:00
+196,Jake,The support agent was rude and unhelpful. Very disappointing experience.,2024-03-06,00:00
+197,Pooja,My order has not arrived yet and it has been 10 days! This is unacceptable.,2024-03-06,08:00
+198,Grace,Can I change my order before it is shipped?,2024-03-06,16:00
+199,Leo,I would like to know if the item is available in size medium.,2024-03-07,00:00
+200,Arjun,How do I apply for a business account?,2024-03-07,08:00
